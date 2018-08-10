@@ -32,6 +32,7 @@
         e.preventDefault();
 
         // This seems like a good place to do some stuff :)
+        alert("up pushed");
 
         break;
 
@@ -43,6 +44,7 @@
         e.preventDefault();
 
         // This seems like a good place to do some stuff :)
+        alert("down pushed");
 
         break;
       }
